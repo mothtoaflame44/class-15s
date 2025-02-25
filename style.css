@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+.hero{
+    background-image: url('images/eyes1.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    color: rgb(224, 247, 144);
+    overflow: hidden;
+}
+.project{
+    margin-top: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.project-item{
+    border: 1px solid rgb(26, 95, 116);
+    float: left;
+    height: 200px;
+    width: 32.5%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.footer{
+    
+    width:100%
+    
+}
+
+.ftbody{
+    width: 32.5%;
+    height: 200px;
+    float: left;
+    
+    
+}

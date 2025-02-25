@@ -1,0 +1,13 @@
+box creation with html and css properties.
+tag used-
+section
+div
+marquee
+p
+img
+iframe
+
+hmm a landing page with options as a box which will include resources for the website. so we will make some boxes which will contain datas and pictures
+and perhaps videos.
+use of different tags data permisson and image size their compression and which one to use jpg is ruined if stretched beyond the given limit using apps and how to know the righht amount of pictures size
+use of margin AND BORDER 
